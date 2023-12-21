@@ -4,4 +4,4 @@ $ pkg upgrade -y && pkg update -y && pkg install nodejs -y &&pkg install nodejs-
 
 $ termux-setup-storage
 
-cd /storage/emulated
+$ cd /storage/emulated/0/Download/botlegumes
